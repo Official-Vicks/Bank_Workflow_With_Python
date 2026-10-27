@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "fullname": "Victory Chidi",
+        "username": "vicks",
+        "salt": "9f792bd558255c03",
+        "pin_hash": "c1237134ae31f08c0fbf4e7aba90e0c10232b29760edc19ecedf6734b11ec4fd",
+        "account_number": 3185513441,
+        "balance": 30000.0,
+        "transactions": [
+            {
+                "date": "2026-10-27 17:17:05",
+                "type": "Deposit",
+                "amount": 50000.0,
+                "balance_after": 50000.0,
+                "note": ""
+            },
+            {
+                "date": "2026-10-27 17:17:38",
+                "type": "Withdrawal",
+                "amount": 20000.0,
+                "balance_after": 30000.0,
+                "note": ""
+            }
+        ]
+    }
+]
